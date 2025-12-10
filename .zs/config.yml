@@ -1,7 +1,6 @@
 ---
-title: Sample page
-description: How to create a page on mathconf.eu
-keywords: github actions, zs, mathconf, static site generator, mathematics, conference, web hosting
+description: Homepage of the Young Researchers Conference on Combinatorial Synergies
+keywords: mathematics, conference, combinatorial synergies, berlin, freie universitat, young, researchers, conference
 
 extensions:
   - typography

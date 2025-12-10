@@ -1,4 +1,25 @@
-page-title: Young Researchers Conference in Combinatorial Synergies
+title: Young Researchers Conference on Combinatorial Synergies
+date: May 4-8, 2026
+location: FU Berlin
 ---
 
-This is a placeholder.
+# Programme
+
+Something something
+
+---
+
+# Schedule
+
+---
+
+# Registration
+
+---
+# How to get here
+
+---
+# Organizers
+
+---
+Sponsors here
