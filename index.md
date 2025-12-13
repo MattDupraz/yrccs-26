@@ -49,9 +49,9 @@ In case of questions, please contact us at [yrccs26@lists.fu-berlin.de](mailto:y
 
 <span class="centering">
 <a href="https://combinatorial-synergies.de/">
-    <img src="/images/BWM-farbig-typo-schwarz.svg" alt="Combinatorial Synergies" class="logo"/>
+    <img src="images/BWM-farbig-typo-schwarz.svg" alt="Combinatorial Synergies" class="logo"/>
 </a>
 <a href="https://fu-berlin.de/">
-    <img src="/images/fu-logo.svg" alt="FU Berlin" class="logo"/>
+    <img src="images/fu-logo.svg" alt="FU Berlin" class="logo"/>
 </a>
 </span>
