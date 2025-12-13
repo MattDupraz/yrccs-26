@@ -23,7 +23,7 @@ The conference will start at 11am on Monday May 4th and will end at lunchtime on
 Below you may find a *preliminary* schedule:
 
 <a href="images/schedule.png">
-    <img src="images/schedule.png" alt="Schedule" style="max-width: 750px;"/>
+    <img src="images/schedule.png" alt="Schedule" style="width: 100%; max-width: 750px;"/>
 </a>
 
 The schedule is subject to change.
