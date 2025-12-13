@@ -9,7 +9,7 @@ The goal of this conference is to bring together young researchers from the Comb
 Mornings will be dedicated to mini-courses and afternoons to research talks contributed by participants.
 We will also have a workshop on the topic of mental well-being in the scope of PhD studies.
 
-Researchers from outside the Combinatorial Synergies program are also welcome to join.
+Researchers and students from outside the Combinatorial Synergies program are also welcome to join.
 
 The three mini-courses will be given by:
 - [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger)
