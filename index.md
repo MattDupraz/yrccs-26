@@ -5,7 +5,7 @@ location: FU Berlin
 
 # Concept
 
-The goal of this conference is to bring together young researchers from the Combinatorial Synergies programme.
+The goal of this conference is to bring together early-career researchers from the Combinatorial Synergies programme.
 Mornings will be dedicated to mini-courses and afternoons to research talks contributed by participants.
 We will also have a workshop on the topic of mental well-being in the scope of PhD studies.
 
