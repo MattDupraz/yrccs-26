@@ -25,8 +25,7 @@ Below you may find a *preliminary* schedule:
 <a href="images/schedule.png">
     <img src="images/schedule.png" alt="Schedule" style="width: 100%; max-width: 750px;"/>
 </a>
-
-The schedule is subject to change.
+<br/><br/>
 
 ---
 # Registration
@@ -45,6 +44,8 @@ The goal of these talks is to give other participants a brief introduction to yo
 The conference takes place at FU Berlin, in the room A3/019 (Arnimallee 3).
 The closest stations are the bus station Arnimallee (bus X83, 5 minutes walk),
 U-Bahn Dahlem Dorf (U3, 10 minutes walk) and S-Bahn Botanischer Garten (S1, 20 minutes walk).
+
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=13.29196570032453%2C52.455388264472006%2C13.302104450400824%2C52.45925200982831&amp;layer=mapnik&amp;marker=52.457320179529496%2C13.297035075362714" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.457320&amp;mlon=13.297035#map=17/52.457320/13.297035">View Larger Map</a></small>
 
 ---
 # Organizers
