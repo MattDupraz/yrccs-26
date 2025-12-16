@@ -33,6 +33,7 @@ Below you may find a *preliminary* schedule:
 # Registration
 
 You may register using [this link.](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
+*You will **not** receive a confirmation email after filling out the form.*
 
 - Registration deadline: February 28th, 2026
 
