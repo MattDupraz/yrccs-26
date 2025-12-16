@@ -16,6 +16,8 @@ The three mini-courses will be given by:
 - [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en)
 - [Martin Winter](https://martinwintermath.github.io/)
 
+Titles and abstracts will be announced at a later date.
+
 ---
 # Schedule
 
@@ -32,8 +34,7 @@ Below you may find a *preliminary* schedule:
 
 You may register using [this link.](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
 
-- Registration deadline: March 15th, 2026
-- Funding application deadline: Febraury 28th, 2026
+- Registration deadline: February 28th, 2026
 
 *You are **strongly encouraged** to apply for a talk, even if you don't have any results to present. 
 The goal of these talks is to give other participants a brief introduction to your research area, and they may be purely expository.*
