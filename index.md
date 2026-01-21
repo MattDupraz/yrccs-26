@@ -37,6 +37,9 @@ You may register using [this link.](https://cryptpad.fr/form/#/2/form/view/EF8vY
 
 - Registration deadline: February 28th, 2026
 
+The conference venue can only accommodate a limited amount of participants, so the
+registration may close *before* the above deadline.
+
 *You are **strongly encouraged** to apply for a talk, even if you don't have any results to present. 
 The goal of these talks is to give other participants a brief introduction to your research area, and they may be purely expository.*
 
