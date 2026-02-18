@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title></title>
-  <meta name="keywords" content="mathematics, conference, combinatorial synergies, berlin, freie universitat, young, researchers, conference">
-  <meta name="description" content="Homepage of the Young Researchers Conference on Combinatorial Synergies">
+  <title>{{ title }}</title>
+  <meta name="keywords" content="{{ keywords }}">
+  <meta name="description" content="{{ description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <link rel="icon" type="image/png" href="calm.png">
@@ -16,18 +16,14 @@
 <body>
 <div id="header">
 <div id="banner">
-<div id="title-container">
-    <span id="title"></span></br>
-    <span id="subtitle">Wed Feb 18 10:59:36 AM PST 2026
- </br> location: plugin or variable not found</span>
-</div>
+    <div id="banner-items">
+        <a href="/" style="color:white">&#129128; Back</a>
+        <span style="text-align:right; flex-grow: 1">YRCCS 2026</span>
+    </div>
 </div>
 </div>
 <div id="content">
-  <p>$ go install go.mills.io/zs@latest
-$ zs build  # files are written to .pub
-$ zs serve  # run local HTTP server</p>
-
+  {{ content }}
 </div>
 </body>
 </html>

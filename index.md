@@ -11,12 +11,12 @@ We will also have a workshop on the topic of mental well-being in the scope of P
 
 Researchers and students from outside the Combinatorial Synergies program are also welcome to join.
 
-The three mini-courses will be given by:
-- [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger)
-- [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en)
-- [Martin Winter](https://martinwintermath.github.io/)
+There are three scheduled mini-courses for the conference:
+- [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger) - Matroids
+- [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en) - Combinatorics of Chow quotients
+- [Martin Winter](https://martinwintermath.github.io/) - The Geometry and Combinatorics of Rigidity
 
-Titles and abstracts will be announced at a later date.
+### [&#129130; Mini-courses abstracts](/mini-courses.html)
 
 ---
 # Schedule
@@ -32,16 +32,12 @@ Below you may find a *preliminary* schedule:
 ---
 # Registration
 
-You may register using [this link.](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
-*You will **not** receive a confirmation email after filling out the form.*
-
-- Registration deadline: February 28th, 2026
-
-The conference venue can only accommodate a limited amount of participants, so the
-registration may close *before* the above deadline.
-
-*You are **strongly encouraged** to apply for a talk, even if you don't have any results to present. 
-The goal of these talks is to give other participants a brief introduction to your research area, and they may be purely expository.*
+The registration deadline is **February 28th, 2026**
+The conference venue can however only accommodate a limited amount of participants, so the
+registration may close *before* this deadline.
+### [&#129130; Registration form](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
+*Note that you will **not** receive a confirmation email after filling out the form. We will contact you shortly after
+the registration deadline.*
 
 ---
 # How to get here
