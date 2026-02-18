@@ -16,7 +16,7 @@ There are three scheduled mini-courses for the conference:
 - [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en) - Combinatorics of Chow quotients
 - [Martin Winter](https://martinwintermath.github.io/) - The Geometry and Combinatorics of Rigidity
 
-### [➔ Mini-courses abstracts](./mini-courses.html)
+### [⇒ Mini-courses abstracts](./mini-courses.html)
 
 ---
 # Schedule
@@ -35,7 +35,7 @@ Below you may find a *preliminary* schedule:
 The registration deadline is **February 28th, 2026**
 The conference venue can however only accommodate a limited amount of participants, so the
 registration may close *before* this deadline.
-### [➔ Registration form](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
+### [⇒ Registration form](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
 *Note that you will **not** receive a confirmation email after filling out the form. We will contact you shortly after
 the registration deadline.*
 
