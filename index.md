@@ -16,7 +16,7 @@ There are three scheduled mini-courses for the conference:
 - [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en) - Combinatorics of Chow quotients
 - [Martin Winter](https://martinwintermath.github.io/) - The Geometry and Combinatorics of Rigidity
 
-### [&#129130; Mini-courses abstracts](/mini-courses.html)
+### [&#129130; Mini-courses abstracts](./mini-courses.html)
 
 ---
 # Schedule
