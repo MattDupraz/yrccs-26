@@ -32,12 +32,7 @@ Below you may find a *preliminary* schedule:
 ---
 # Registration
 
-The registration deadline is **February 28th, 2026**
-The conference venue can however only accommodate a limited amount of participants, so the
-registration may close *before* this deadline.
-### [⇒ Registration form](https://cryptpad.fr/form/#/2/form/view/EF8vYq63qyZQkL21fU0jmPk7Z1PBSTyywDHGFgHLBbI/)
-*Note that you will **not** receive a confirmation email after filling out the form. We will contact you shortly after
-the registration deadline.*
+Registrations are now closed. We will soon contact participants with further details regarding the conference.
 
 ---
 # How to get here
