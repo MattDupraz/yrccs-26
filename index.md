@@ -32,7 +32,7 @@ Below you may find a *preliminary* schedule:
 ---
 # Registration
 
-Registrations are now closed. We will soon contact participants with further details regarding the conference.
+Registrations are now closed.
 
 ---
 # How to get here
@@ -64,7 +64,7 @@ that the U3 only runs between Krumme Lanke and Spichernstraße. Beyond Spicherns
 you will have to change to a replacement service.
 For more information check [the notice on the BVG website](https://www.bvg.de/en/connections/route-overview/u3#disruptions).
 
-You may visit the [BVG website](https://www.bvg.de/en) for a transportation map and information about ticketing
+You may visit the [BVG website](https://www.bvg.de/en) for a transportation map and information about ticketing.
 
 ## Hotels
 
