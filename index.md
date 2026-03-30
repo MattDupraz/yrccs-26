@@ -22,13 +22,13 @@ There are three scheduled mini-courses for the conference:
 # Schedule
 
 The conference will start at 11am on Monday May 4th and will end at lunchtime on Friday May 8th.
-Below you may find a *preliminary* schedule:
 
 <a href="images/schedule.png">
     <img src="images/schedule.png" alt="Schedule" style="width: 100%; max-width: 750px;"/>
 </a>
-<br/><br/>
+<br/>
 
+### [⇒ Contributed talks](./talks.html)
 ---
 # Registration
 
