@@ -8,7 +8,7 @@ layout: subpage.html
 # Contributed talks
 
 Below follows a tentative schedule for the talks. Note that the schedule is not fixed, and may be updated at a
-later date.
+later date. The talks are 20 minutes long.
 
 ## Monday
 
