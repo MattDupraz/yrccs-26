@@ -80,6 +80,7 @@ body {
   padding-top: 1em;
   flex-grow: 1;
   text-align: justify;
+  padding-bottom: 40px;
 }
 
 #footer {
