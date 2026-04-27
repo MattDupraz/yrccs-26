@@ -2,22 +2,24 @@ title: Mini-courses
 layout: subpage.html
 ---
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
 # Mini-courses
 
-## [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger) - Matroids
+## [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger) - Matroids and Oriented Matroids
 
 **Abstract**:
-We will start with a refresh of the topic for all who are acquainted
-with matroids and a fast lane introductory course for all newbies.
-During the remaining lectures we will meet oriented matroids, consider
-realizability of matroids and learn about Mnëv’s universality theorem.
+Matroids are the combinatorial abstraction of linear independence: they capture what remains of a configuration of vectors, points, or hyperplanes once numerical data is forgotten and only the pattern of dependencies is retained. Oriented matroids refine this picture by additionally remembering signs, and in doing so encode precisely the combinatorics of real hyperplane arrangements, convex position, and signed linear dependencies. Both structures admit many cryptomorphic descriptions—via independent sets, bases, circuits, chirotopes, or covectors—each adapted to a different viewpoint, and each revealing a different facet of the geometry they shadow.
+
+This minicourse starts with a brief introduction to matroids and oriented matroids for newcomers and a relaxed recap for those already familiar with the basics. We will develop the cryptomorphic axiomatizations and then turn to the geometric question that drives the rest of the course: which (oriented) matroids come from real configurations? This leads naturally to the matroid stratification of the Grassmannian and to realization spaces as semi-algebraic objects. The Folkman–Lawrence Topological Representation Theorem identifies oriented matroids with arrangements of pseudospheres, and Mnëv's universality theorem shows that realization spaces of rank-3 oriented matroids are, up to stable equivalence, arbitrary semi-algebraic sets defined over \\(\\mathbb{Z}\\)—so realizability is as wild as one could possibly ask.
+
 
 ## [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en) - Combinatorics of Chow quotients
 
 **Abstract**:
 When a group acts on an algebraic variety, the naive topological quotient typically fails to be an algebraic variety and lacks good geometric or combinatorial properties. Defining a quotient construction that produces a meaningful algebraic variety is therefore a subtle problem. One solution is the Chow quotient, introduced by Kapranov. Many important algebraic varieties arise in this way, including the spaces of complete quadrics and complete collineations, the moduli space of marked stable rational curves, wonderful compactifications of hyperplane arrangements, and several others. 
 
-In this lecture series, I will explore the combinatorial aspects of Chow quotients, focusing on the case of quotients by an algebraic torus. After a brief geometric motivation, we will examine toric examples, where Chow quotients correspond to the operation of taking a fibre polytope. I will then specialise to the case of a one-dimensional torus **C**\*, giving a combinatorial description of the Chow quotient as the variety of monotone chains of orbits. Throughout the lectures, I will illustrate these ideas with many explicit examples and computations, including applications to wonderful models for linear spaces of matrices.
+In this lecture series, I will explore the combinatorial aspects of Chow quotients, focusing on the case of quotients by an algebraic torus. After a brief geometric motivation, we will examine toric examples, where Chow quotients correspond to the operation of taking a fibre polytope. I will then specialise to the case of a one-dimensional torus \\(\\mathbb{C}^\*\\), giving a combinatorial description of the Chow quotient as the variety of monotone chains of orbits. Throughout the lectures, I will illustrate these ideas with many explicit examples and computations, including applications to wonderful models for linear spaces of matrices.
 
 ## [Martin Winter](https://martinwintermath.github.io/) - The Geometry and Combinatorics of Rigidity
 

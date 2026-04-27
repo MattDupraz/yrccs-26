@@ -12,7 +12,7 @@ We will also have a workshop on the topic of mental well-being in the scope of P
 Researchers and students from outside the Combinatorial Synergies program are also welcome to join.
 
 There are three scheduled mini-courses for the conference:
-- [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger) - Matroids
+- [Alheydis Geiger](https://www.mis.mpg.de/people/alheydis-geiger) - Matroids and Oriented Matroids
 - [Leonid Monin](https://people.epfl.ch/leonid.monin?lang=en) - Combinatorics of Chow quotients
 - [Martin Winter](https://martinwintermath.github.io/) - The Geometry and Combinatorics of Rigidity
 
