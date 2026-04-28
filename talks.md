@@ -7,8 +7,8 @@ layout: subpage.html
 
 # Contributed talks
 
-Below follows a tentative schedule for the talks. Note that the schedule is not fixed, and may be updated at a
-later date. The talks are 20 minutes long.
+Below you may find the abstract for the contributed talks. Each talk should be at most 20 minutes long
+(strictly).
 
 ## Monday
 
